@@ -1,0 +1,41 @@
+body {
+     background: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+.box {
+    width: 400px;
+    margin: 100px auto;
+    padding: 15px;
+    border: 2px solid purple;
+    border-radius: 10px;
+    align-items: center;
+    background-color: rgb(247, 177, 247);
+}
+
+.box h1 {
+    text-align: center;
+}
+
+.price {
+    text-align: center;
+}
+
+.features {
+    list-style: none;
+    padding: 0;
+     content: "✔ ";
+     text-align: center;
+}
+
+.button {
+    font: bold 17px Arial, sans-serif;;
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    border: 2px solid purple;
+    background-color: rgb(183, 119, 183);
+}
+

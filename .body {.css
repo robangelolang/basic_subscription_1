@@ -1,0 +1,6 @@
+.box {
+  width: 200px;
+  margin: 100px auto; /* centers it */
+  padding: 15px;
+  border: 1px solid black;
+}
